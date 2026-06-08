@@ -1,6 +1,6 @@
 <h1> Hi I'm María 👋🏼 </h1>
 
-<img width="45%" align="right" alt="Front page gif" src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" hspace="20"/>
+<!-- <img width="45%" align="right" alt="Front page gif" src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" hspace="20"/> -->
 
 👩🏼‍💻 - Frontend Engineer focused on scalable UI architecture, with a background in graphic design that makes me care about the details that others skip.
 
