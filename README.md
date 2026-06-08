@@ -1,14 +1,14 @@
 <h1> Hi I'm María 👋🏼 </h1>
 
-<img width="50%" align="right" alt="Front page gif" src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" hspace="20"/>
+<img width="45%" align="right" alt="Front page gif" src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" hspace="20"/>
 
 👩🏼‍💻 - Frontend Engineer focused on scalable UI architecture, with a background in graphic design that makes me care about the details that others skip.
 
-🧑🏼‍🎓  - On my way to Senior: I'm into scalable frontend architecture (FSD 👋🏼), TypeScript in depth, and building internal tooling powered by AI agents. I believe the way we work with AI is evolving fast, and I want to be ahead of that curve.
+🧑🏼‍🎓 - On my way to Senior: I'm into scalable frontend architecture (FSD 👋🏼), TypeScript in depth, and building internal tooling powered by AI agents. I believe the way we work with AI is evolving fast, and I want to be ahead of that curve.
 
 🫱🏼‍🫲🏽 - Team player who values knowledge sharing as much as writing good code, pair programming or lightning talks.
 
-👷🏼‍♀️ -  Currently working at: <a align="left" href="https://civitatis.com/" target="blank">**Civitatis**</a>
+👷🏼‍♀️ - Currently working at: <a href="https://civitatis.com/" target="blank"><strong>Civitatis</strong></a>
 <br>
 
 
@@ -55,7 +55,6 @@
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 <br>
 
